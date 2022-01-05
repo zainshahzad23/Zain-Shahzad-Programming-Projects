@@ -4,8 +4,7 @@
 using namespace std;
 int main()
 
-{
-    
+{    
     char pieceone,piecetwo,piecethree,piecefour,piecefive,piecesix;
     pieceone='P';
     piecetwo='B';
