@@ -3,7 +3,7 @@
 #include <cmath>
 using namespace std;
 int main()
-//this project is in progrees as of 9/05/2021
+
 {
     
     char pieceone,piecetwo,piecethree,piecefour,piecefive,piecesix;
